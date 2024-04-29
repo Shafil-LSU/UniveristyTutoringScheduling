@@ -3623,11 +3623,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shafi\\OneDrive\\Desktop\\TutorAppointments\\UniversityTutoringScheduler\\EFCode\\EFCode\\EFCode.csproj",
+      "projectUniqueName": "C:\\Project\\UniversityTutoringScheduling\\UniveristyTutoringScheduling\\EFCode\\EFCode\\EFCode.csproj",
       "projectName": "EFCode",
-      "projectPath": "C:\\Users\\shafi\\OneDrive\\Desktop\\TutorAppointments\\UniversityTutoringScheduler\\EFCode\\EFCode\\EFCode.csproj",
+      "projectPath": "C:\\Project\\UniversityTutoringScheduling\\UniveristyTutoringScheduling\\EFCode\\EFCode\\EFCode.csproj",
       "packagesPath": "C:\\Users\\shafi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shafi\\OneDrive\\Desktop\\TutorAppointments\\UniversityTutoringScheduler\\EFCode\\EFCode\\obj\\",
+      "outputPath": "C:\\Project\\UniversityTutoringScheduling\\UniveristyTutoringScheduling\\EFCode\\EFCode\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shafi\\AppData\\Roaming\\NuGet\\NuGet.Config",
